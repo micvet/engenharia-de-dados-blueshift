@@ -13,7 +13,7 @@ O programa visa capacitar profissionais para o uso das principais ferramentas de
 ## Projetos desenvolvidos: 
 
 ### [Projeto 1](https://github.com/micvet/engenharia-de-dados-blueshift/tree/main/projeto-1): 
-**Objetivo do Projeto**
+**Objetivo do Projeto** <br>
 Este projeto teve como objetivo analisar os dados de clientes de uma imobiliária para melhorar suas estratégias de marketing e compreender melhor o perfil de seus clientes. As análises incluem:
 
 * Distribuição de renda por estado.
