@@ -7,7 +7,7 @@ Este projeto tem como objetivo analisar os dados de clientes de uma imobiliária
 * Análise de outliers de renda.
 * Correlação entre renda e estado civil.
 
-# 2. Estrutura do Relatório
+# 2. Estrutura do Projeto
 
 ## 2.1 Importação das Bibliotecas Necessárias
 As bibliotecas utilizadas incluem:
