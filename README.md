@@ -14,7 +14,7 @@ O programa visa capacitar profissionais para o uso das principais ferramentas de
 
 ### [Projeto 1](https://github.com/micvet/engenharia-de-dados-blueshift/tree/main/projeto-1): 
 **Objetivo do Projeto** <br>
-Este projeto teve como objetivo apriomorar o uso das seguintws ferramentas, utilizadas na análise/engenharia de dados:
+Este projeto teve como objetivo apriomorar o uso das seguintes ferramentas, utilizadas na análise/engenharia de dados:
 <br>
 * pandas: para manipulação e análise de dados.
 * matplotlib.pyplot: para criação de gráficos e visualizações.
