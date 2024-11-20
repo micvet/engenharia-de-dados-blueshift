@@ -14,7 +14,15 @@ O programa visa capacitar profissionais para o uso das principais ferramentas de
 
 ### [Projeto 1](https://github.com/micvet/engenharia-de-dados-blueshift/tree/main/projeto-1): 
 **Objetivo do Projeto** <br>
-Este projeto teve como objetivo analisar os dados de clientes de uma imobiliária para melhorar suas estratégias de marketing e compreender melhor o perfil de seus clientes. As análises incluem:
+Este projeto teve como objetivo apriomorar o uso das seguintws ferramentas, utilizadas na análise/engenharia de dados:
+<br>
+* pandas: para manipulação e análise de dados.
+* matplotlib.pyplot: para criação de gráficos e visualizações.
+* seaborn: para visualizações estatísticas.
+* numpy: para operações numéricas eficientes.
+
+
+Para o projeto, recebemos um conjunto de dados de clientes de uma imobiliária, para realizar as seguintes análises:
 
 * Distribuição de renda por estado.
 * Segmentação de clientes por estado civil e gênero.
@@ -22,8 +30,4 @@ Este projeto teve como objetivo analisar os dados de clientes de uma imobiliári
 * Análise de outliers de renda.
 * Correlação entre renda e estado civil.
 
-**Tecnologias utilizadas:**
-* pandas: para manipulação e análise de dados.
-* matplotlib.pyplot: para criação de gráficos e visualizações.
-* seaborn: para visualizações estatísticas.
-* numpy: para operações numéricas eficientes.
+
